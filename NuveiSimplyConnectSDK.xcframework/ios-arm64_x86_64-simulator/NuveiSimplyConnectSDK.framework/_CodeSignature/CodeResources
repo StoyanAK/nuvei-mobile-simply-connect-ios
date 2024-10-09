@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		0YrsIsQnmeshMCO1W2KU8hyN714=
+		YqjD9r45WEuzYct0hpxcI+uK6Xk=
 		</data>
 		<key>Headers/NuveiSimplyConnectSDK-Swift.h</key>
 		<data>
-		iaZcMMrZXn982cRDIsTjXXHGJS0=
+		pmbUeCFyPI0rIogBoNDkzCcMjNg=
 		</data>
 		<key>Headers/NuveiSimplyConnectSDK.h</key>
 		<data>
@@ -18,47 +18,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WJLcjkOmlKnvpSl+gmVryjx+5vU=
+		Z6e4WHPLqwQ9uvEvUByYTBt2JVU=
 		</data>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		PhL+KQpE0l21ZkhiW04L21vWXTg=
+		qn1dsKUrpDct9anaLzrTHSd4+K0=
 		</data>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		SZFV0nlyelFEf/G3/GWTvE3Ow3s=
+		6tOLER81J2kiTbDIWZJn0pDyo0k=
 		</data>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Fshg69MXX1VsqBdt4mJIazJbo2Y=
+		+9DyeSDN7Pazrgwb7D2Bxd5k9Ik=
 		</data>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SZFV0nlyelFEf/G3/GWTvE3Ow3s=
+		6tOLER81J2kiTbDIWZJn0pDyo0k=
 		</data>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		g48v1dxYskfrk3eSzXF56BbWn60=
+		T9APb/wkKzpNZY/WDN3Z+rrIRFc=
 		</data>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		PhL+KQpE0l21ZkhiW04L21vWXTg=
+		qn1dsKUrpDct9anaLzrTHSd4+K0=
 		</data>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		kiKTwoXljWYJawj1fTC9lF6bkkM=
+		OWYhB3Acc5EZpRVorkkUE7H/KfE=
 		</data>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		J68sv2G/atry4O9NefazoICr+kE=
+		NuJXLnxy0sZYAeaXKeccWiawOqM=
 		</data>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		kiKTwoXljWYJawj1fTC9lF6bkkM=
+		OWYhB3Acc5EZpRVorkkUE7H/KfE=
 		</data>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aIuSF846BHZ34gvatzBW5z0NtsM=
+		2HiApunIlV6YErR52b2cWeLUojQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UppH2VqilKftnzPkgksijp/7AOkU0fc7VWfwaSRe+5w=
+			VSu8g3rysLKQNHnLEc88JdoStORQR2MQddeZgsfxMUw=
 			</data>
 		</dict>
 		<key>Headers/NuveiSimplyConnectSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tIODy5Cdg+32qMix1HGLoMTObXngv24+fzq6AVipuSk=
+			+eakW6Z+3mfCfKVQ0iq/shfZbb8NF2MAbrzihIctkRs=
 			</data>
 		</dict>
 		<key>Headers/NuveiSimplyConnectSDK.h</key>
@@ -92,70 +92,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wg6xATDagOtfH+EKW4lMevLpzPSNXKMZP5HZQ9Yo5cM=
+			DoCXQUigcv5ZhkpGCYTdwjxgDNYWGp1JeVsIjW28lwI=
 			</data>
 		</dict>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ie0le6m+FmwfkW5Ht63R/ig9koM1FG4f+5Jx1J+JTOk=
+			aNl1krGonj9syO/tQmdeawbOOK/Z8JxScrkWxo3U8Gs=
 			</data>
 		</dict>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			emGabnjhNrtT2Mcw3CgR++1dVyMHpZAQQOaft2qvosI=
+			clzhsh9prmMOW2d1aTlvBN+Z2fM4Rcvm/gTQmDpmxKA=
 			</data>
 		</dict>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ie0le6m+FmwfkW5Ht63R/ig9koM1FG4f+5Jx1J+JTOk=
+			aNl1krGonj9syO/tQmdeawbOOK/Z8JxScrkWxo3U8Gs=
 			</data>
 		</dict>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/+TlJUyEdmZ2tbKzgP86dUYmJex0K+Oh6gQJc+DTxkQ=
+			9Xp+CU0S+J9X7NgkBLfKxTV+bSLFlqJKveN2XakzrKA=
 			</data>
 		</dict>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wg6xATDagOtfH+EKW4lMevLpzPSNXKMZP5HZQ9Yo5cM=
+			DoCXQUigcv5ZhkpGCYTdwjxgDNYWGp1JeVsIjW28lwI=
 			</data>
 		</dict>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8FvPRCQDzt2uRF8rEujFVvvardSlqz03lWjvGD8y+JE=
+			ZL/pa6zm9hQU6l8MDelmZ3Fp/cXQvRWa0T778XXnyXM=
 			</data>
 		</dict>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fCPF4A0cz40jWNSc5I1IhSzAcxMHLe8w26uhayfPEt0=
+			TZY6YG8U9DXqUzfS5MNg9PpLFZ/tvURMUiAvBA1/2lA=
 			</data>
 		</dict>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8FvPRCQDzt2uRF8rEujFVvvardSlqz03lWjvGD8y+JE=
+			ZL/pa6zm9hQU6l8MDelmZ3Fp/cXQvRWa0T778XXnyXM=
 			</data>
 		</dict>
 		<key>Modules/NuveiSimplyConnectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o0wl7B3p+nAvEFOskiv9ebYhkDRCg/cDyg2TF1/pyrs=
+			z+wU8Xuv5TfiSmy1qSwh5XmobNbSv0VIZHZavPk0zkE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
